@@ -22,6 +22,7 @@ class App extends Component {
       <div className="App">
         <Header></Header>
         <div className="row mrgnbtm">
+          Test
           <Christmas christmas={this.state.christmas}></Christmas>
         </div>
       </div>
